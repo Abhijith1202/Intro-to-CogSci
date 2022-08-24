@@ -1,11 +1,21 @@
 # Lecture 4: 08/08/22
 
+## 2 Types of research
+
+- Theory driven
+  - Theory-driven research is a more traditional approach of conducting scientific inquiry that starts with developing hypotheses, followed by collecting and analysing data to test these hypotheses and drawing theoretical conclusions based on the results.
+- Exploratory
+  - We collect data in some setting, then apply correlational analysis to understand a possible conclusion that the correlation formed could lead to, construct a hypothesis, test this new hypothesis and loop through until a solid theory is built. This gives us insight into new possible theories we couldn’t have come across otherwise.
+
 ## 2 Modes of research:
 
 - Behavioral
+  - Observational methods based on an organism’s response to stimulus
   - Psychophysics etc.	
+  
 - Neural
-
+  - Analysing brain signals on performing certain actions or responding to stimuli
+  - EEG, IMRI etc.
 
 
 ## Psychophysics
