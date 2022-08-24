@@ -6,7 +6,7 @@
 
 - Our prior experiences (background knowledge) influences perception.
 
-![image-20220824151950236](/home/abhijith/Desktop/academics/sem 5/Intro-to-CogSci/images/image-20220824151950236.png)
+![image-20220824151950236](./images/image-20220824151950236.png)
 
 - In the figure above, we perceive that there's a cube even though there actually arent lines connecting the corners, as we expect a cube to be present.
 - Theory driven.
@@ -35,7 +35,7 @@ In where's waldo, if we use:
 
 - Sometimes the same stimuli can be perceived in multiple ways
 
-![image-20220824152628318](/home/abhijith/Desktop/academics/sem 5/Intro-to-CogSci/images/image-20220824152628318.png)
+![image-20220824152628318](./images/image-20220824152628318.png)
 
 - Bistable perception occurs because the stimuli offers several interpretation possibilities that cannot be perceived simultaneously or because its features may be ambiguous to uniquely interpret.
 - Once we find multiple interpretations of the stimuli, we may switch back and forth between the interpretations.
