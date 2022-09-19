@@ -1,10 +1,19 @@
 # Lecture 7: 22/08
 
-## Volley theory
+## Theories of sound encoding in cochlea
+
+## 1. Volley theory
 
 - Synch. of several adj neurons encodes periodicity info.
+- groups of neurons of the auditory system respond to a sound by firing action potentials slightly out of phase with one another so that when combined, a greater frequency of sound can be encoded and sent to the brain to be analyzed.
 
-## Temporal coding theory (?)
+## 2. Temporal coding theory (?)
+
+- frequency encoded in timing of neural firings along the basilar membrane
+
+## 3. Place theory
+
+- encoded at different places on the basilar membrane
 
 ## Hearing sensitivity
 

@@ -51,3 +51,39 @@
 - regulates instinct
 
  
+
+## Neurotransmitters
+
+### Glutamate
+
+- excitatory, learning and mem
+- memory enhancer
+
+### GABA (Gamma aminobutyric acid)
+
+- inhibitory (alcohol, anxiety)
+
+### Acetylcholine
+
+- voluntary motor control
+- attention, learning, sleeping, dreaming, memory
+- Alzheimers
+
+### Dopamine
+
+- Regulates motor behavior, motivation, pleasure, emotional arousal
+- Too much: schizophrenia, too little: parkinsons
+
+### norepinephrine
+
+- influence mood and arousal
+- Heightened awareness of dangers in the env. (stage fright)
+
+### Caffeine
+
+- When your brain is tired and wants to slow down, it releases a chemical called adenosine (an inhibitory neurotransmitter ).
+- Caffeine mimics adenosine; so it can “plug up” your receptors and prevent adenosine from getting through.
+
+
+
+![image-20220919154714371](images/image-20220919154714371.png)
