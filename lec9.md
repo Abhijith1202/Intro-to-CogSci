@@ -1,5 +1,7 @@
 # Lecture 9: 01/09
 
+- our perceptions are the result of unconscious assumptions we make about the environment
+
 ## Gestalt Principles of Organisation
 
 - holistic/gestalt: whole is something else than the sum of its parts.
@@ -7,12 +9,33 @@
 
 ## Gestalt principles of perceptual organisation
 
-- Similarity
-- Continuation
-- Closure (perceive figures with gaps to be continuous)
-- Figure-ground : Organisation depends on what we see as object and what we perceive as ground (context).
+- Says the whole is something else than the sum of its parts
+
+- Principles
+
+  - Pragnanz (good figure/simplicity): perceive and interpret ambiguous or complex images as the simplest form(s) possible
+
+    ![image-20220919224229097](images/image-20220919224229097.png)
+
+    Image perceived as the first, and not the second
+
+  - Similarity
+
+  - Continuation
+    - We tend to perceive figures or objects as belonging together if they appear to form a continuous or smooth pattern.
+
+  - Proximity
+    - Objects close together in space or time perceived as belonging together
 
 
+  - Closure (perceive figures with gaps to be continuous)
+
+  ![image-20220919225328746](images/image-20220919225328746.png)
+
+  - Figure-ground : Organisation depends on what we see as object and what we perceive as ground (context).
+
+
+![image-20220919225452673](images/image-20220919225452673.png)
 
 - Not limited to visual domain
 
@@ -20,11 +43,11 @@
   - can lead to incorrect perception or error.
 - Modern perceptual psychology: perception is shaped by knowledge of regularities in the environment.
 
-
-
 - (Topdown and bottom up)
 
 ## Models of recognition
+
+![image-20220919230336925](images/image-20220919230336925.png)
 
 ### 1. Template matching
 
@@ -34,14 +57,24 @@
 ### 2. Feature matching
 
 - Extract important or disc. features (eg edges, colours shape etc) from image and match with known features of obj
+- more flexible than template matching - as long as the features are present it will work, even if the object has parts that may be rearranged
+- feature-matching models may also require less storage space than template models because relatively few features would render recognizable many objects of the same category that are not identical
+
+![image-20220919230530798](images/image-20220919230530798.png)
 
 ### 3. (?) recognition by components
 
-- Problem: viewpoint invariance is possible (except for some accidental viewpoints).
+- geons - perceptual building blocks
+- if we can recover (see) an object’s geons, we can identify the object
+
+- Problem: 
+  - viewpoint invariance is possible (except for some accidental viewpoints).
+  - works for recognition of man-made objects, but less clear to natural objects 
+
 
 ### 4. configural model
 
-- obj recognised acc to spatial relations among the shared parts and the extend to which they deviate
+- obj recognised acc to spatial relations among the shared parts and the extend to which they deviate from the prototype
 - damage to fisiform area leads to prosopagnosia
 - Expertise hypothesise
   - specialised neural sustem develops for experts required to judge subtle differences within any particular category 
@@ -50,10 +83,18 @@
 
 ## Perceptual constancy
 
-
+- The tendency to perceive objects as maintaining stable properties despite differences in sensory input: distance, viewing angle, and lighting
 
 - Mirror neurons(?)
-  - Moebius syndrome, cerebral palsy, brocal aphrasia: anomalies
+  - neurons in the premotor cortex respond not just to action but to watching an action
+  - audiovisual mirror neurons respond also to sounds that are associated with actions
+  - Moebius syndrome
+    - Inability to generate facial emotions but can recognise others’ facial emotions
+  - cerebral palsy
+    - damage to motor system but still perceives and understands others’ actions
+
+  - brocal aphrasia (impairment in speech with spared speech comprehension)
+
 
 
 

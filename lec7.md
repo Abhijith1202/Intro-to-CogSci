@@ -56,7 +56,31 @@
   - healthy lifestyle
   - auditory exercises
 
+## Hearing loss
+
+1. Conductive hearing loss: Problems in transmitting sound waves to the cochlea
+
+2. Sensorineural Hearing Loss: Caused by damage to inner ear or auditory nerve
+
 --- End of Auditory system ---
+
+# Olfaction
+
+- Chemoreceptors (present in nasal cavity) detects odour molecules in our food and environment
+- send input to olfactory bulb in forebrain
+- **olfactory system is the only human sense that bypasses the thalamus and connects directly to the forebrain**
+- each receptor sensitive to specific compounds, each odor activates a different pattern of glomeruli
+
+
+
+# Gustation
+
+![image-20220919192414320](images/image-20220919192414320.png)
+
+- Umami: Deliciousness (jap) - savoury/pleasant taste
+- each taste bud has taste receptor cells for molecules of all 5 taste qualities 
+
+![image-20220919192634358](images/image-20220919192634358.png)
 
 - Supertaster: Have greater bitter taste sense
 
