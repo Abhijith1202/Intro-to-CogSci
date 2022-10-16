@@ -33,3 +33,17 @@
 ## Temporal Context model (Extension of sampling theory)
 
 - Designed to explain contiguity effect
+
+### Recency effect
+
+- (The letter recall task)
+- (IFR) No distractor: high recall of initial (rehearsal) and ind letters (recency effect), low recall of middle 
+- (DFR) All letters, then distractor (delayed free recall), kinda similar to IFR, but lower recall rates, almost monotonically decreasing (?)
+- (CDFR) Continuous-distractor free recall (Letter-math-letter-math...): Similar to IFR, much better recency effect thatn DFR
+
+![image-20221016163953598](./images/image-20221016163953598.png)
+
+
+
+![image-20221016164020786](./images/image-20221016164020786.png)
+
