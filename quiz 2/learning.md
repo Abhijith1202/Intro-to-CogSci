@@ -22,7 +22,7 @@
 
 ## Operant conditioning
 
-![image-20221015185759313](/home/abhijith/Desktop/academics/sem 5/Intro-to-CogSci/quiz 2/learning_Assets/image-20221015185759313.png)
+![image-20221016120643217](./images/image-20221016120643217.png)
 
 
 

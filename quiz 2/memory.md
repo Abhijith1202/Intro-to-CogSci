@@ -1,6 +1,6 @@
 # Memory
 
-![image-20221015153838853](/home/abhijith/snap/typora/76/.config/Typora/typora-user-images/image-20221015153838853.png)
+![image-20221016120732786](./images/image-20221016120732786.png)
 
 ## Amnesia
 
@@ -40,7 +40,7 @@
   - State dependant learning: emotional state, mood etc
 - Retrieval of memory may affect other memories positively(testing effect) or adversely(retrieval induced forgetting)
 
-![image-20221015172501117](/home/abhijith/snap/typora/76/.config/Typora/typora-user-images/image-20221015172501117.png)
+![image-20221016120738609](./images/image-20221016120738609.png)
 
 - EXPLICIT (declarative memory): information that we can recall intentionally
 - Implicit: unconscious
@@ -71,7 +71,7 @@
 5.  Suggestibility
     - Tendency to include info from external sources as personal recollection
 
-![image-20221015173536296](/home/abhijith/snap/typora/76/.config/Typora/typora-user-images/image-20221015173536296.png)
+![image-20221016120746465](./images/image-20221016120746465.png)
 
 6. Bias
    - distorting influences of present knowledge, beliefs, and feelings on recollection of previous experiences

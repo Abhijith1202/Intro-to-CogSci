@@ -6,9 +6,9 @@
 
 - Mathematical formulation of the above theories:
 
-  ![image-20221016113202380](/home/abhijith/snap/typora/76/.config/Typora/typora-user-images/image-20221016113202380.png)
+  ![image-20221016120712728](./images/image-20221016120712728.png)
 
-![image-20221016113318620](/home/abhijith/snap/typora/76/.config/Typora/typora-user-images/image-20221016113318620.png)
+![image-20221016120718490](./images/image-20221016120718490.png)
 
 
 
