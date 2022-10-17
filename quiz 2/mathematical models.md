@@ -37,7 +37,7 @@
 ### Recency effect
 
 - (The letter recall task)
-- (IFR) No distractor: high recall of initial (rehearsal) and ind letters (recency effect), low recall of middle 
+- (IFR) No distractor: high recall of initial (rehearsal) and end letters (recency effect), low recall of middle 
 - (DFR) All letters, then distractor (delayed free recall), kinda similar to IFR, but lower recall rates, almost monotonically decreasing (?)
 - (CDFR) Continuous-distractor free recall (Letter-math-letter-math...): Similar to IFR, much better recency effect thatn DFR
 

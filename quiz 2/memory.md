@@ -14,7 +14,7 @@
 
 
 
-- Clove Wearing: complete anterograde, limited retrograde.
+- Clive Wearing: complete anterograde, limited retrograde.
 
 - Hippocampus acts as in index for LT memory storage
 
@@ -56,7 +56,7 @@
 2.  Absentmindedness
     - a lapse in attention that results in memory failure
     - prospective memory : remembering to do things in the future (take medicine at 7pm)
-3.  Bocking: 
+3.  Blocking: 
     - Memory is there, but you cant access it (tip of the tongue phenomenon)
     - Retrieval failure
 4.  Memory misattribution

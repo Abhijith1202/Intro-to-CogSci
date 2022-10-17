@@ -53,19 +53,19 @@
 
     - Ratio 
 
-      - Fixed
+      - Fixed ratio
         - same no. of desired responses needed
         - Rapid response rate with short pauses
-      - Variable
+      - Variable ratio
         - number of responses required varies for each event
         - Rapid rate without pauses
 
     - Interval (Number of responses compared to amount of time elapsed since last reinforcement)
 
-      - Fixed
+      - Fixed interval
         - same time before reinforcement opportunity
         - Long pauses
-      - Variable
+      - Variable interval
         - Reinforcement possibilities after varying amounts of time
         - slow, steady rate without pauses
 
