@@ -47,3 +47,15 @@
 
 ![image-20221016164020786](./images/image-20221016164020786.png)
 
+
+
+## Schematic of provcesses involved in using computational model to understand behaviour
+
+![image-20221122183208523](./images/image-20221122183208523.png)
+
+
+
+## SAM: Search of Associative Memory
+
+- First “global-matching” memory model – i.e., retrieval cues are compared to the entirety of everything in one’s memory to get a memory signal upon which we make memory decisions
+- ![image-20221122183756207](./images/image-20221122183756207.png)

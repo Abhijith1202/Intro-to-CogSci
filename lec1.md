@@ -54,3 +54,7 @@ In where's waldo, if we use:
 - Apparent cleverness arises by trial and error
 - If an action brings a reward, it gets imprinted to the brain.
 - Behaviour changes because of its consequences.
+
+
+
+![image-20221123114654748](./images/image-20221123114654748.png)
